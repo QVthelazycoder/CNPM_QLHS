@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\bang_diem_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|c:\\users\\quoc vinh\\source\\repos\\my_application\\my_application\\bang_diem_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\bang_diem_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\doi_mat_khau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|c:\\users\\quoc vinh\\source\\repos\\my_application\\my_application\\databasefunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\databasefunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\databasefunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -191,7 +191,8 @@
               "RelativeToolTip": "My_Application\\Danh_sach_mon_hoc.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T09:39:14.388Z"
+              "WhenOpened": "2024-06-07T09:39:14.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -202,7 +203,8 @@
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_ho_so.cs [Design]",
               "RelativeToolTip": "My_Application\\Them_ho_so.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T05:38:59.139Z"
+              "WhenOpened": "2024-06-07T05:38:59.139Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -238,7 +240,8 @@
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Main_Form.cs [Design]",
               "RelativeToolTip": "My_Application\\Main_Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T04:06:04.728Z"
+              "WhenOpened": "2024-05-27T04:06:04.728Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -250,7 +253,8 @@
               "RelativeToolTip": "My_Application\\Tra_cuu.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAUwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T03:44:39.032Z"
+              "WhenOpened": "2024-06-02T03:44:39.032Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -274,7 +278,8 @@
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_ds_lop.cs [Design]",
               "RelativeToolTip": "My_Application\\Them_ds_lop.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:33:14.153Z"
+              "WhenOpened": "2024-06-03T14:33:14.153Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -286,7 +291,8 @@
               "RelativeToolTip": "My_Application\\Them_ds_lop.cs",
               "ViewState": "AQIAAIIAAAAAAAAAAAAmwJYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:33:28.228Z"
+              "WhenOpened": "2024-06-03T14:33:28.228Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -297,7 +303,8 @@
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Danh_sach_mon_hoc.cs [Design]",
               "RelativeToolTip": "My_Application\\Danh_sach_mon_hoc.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T04:30:13.877Z"
+              "WhenOpened": "2024-06-05T04:30:13.877Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -309,7 +316,8 @@
               "RelativeToolTip": "My_Application\\Main_Form.Designer.cs",
               "ViewState": "AQIAABQAAAAAAAAAAIBJwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T10:56:29.105Z"
+              "WhenOpened": "2024-06-06T10:56:29.105Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -345,7 +353,8 @@
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Bao_cao_Hocky.cs [Design]",
               "RelativeToolTip": "My_Application\\Bao_cao_Hocky.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T09:44:50.357Z"
+              "WhenOpened": "2024-06-01T09:44:50.357Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -355,7 +364,7 @@
               "RelativeDocumentMoniker": "My_Application\\Bang_diem_mon.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Bang_diem_mon.cs",
               "RelativeToolTip": "My_Application\\Bang_diem_mon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T13:16:20.357Z",
               "EditorCaption": ""
@@ -395,7 +404,8 @@
               "RelativeToolTip": "My_Application\\Ho_so_hs.cs",
               "ViewState": "AQIAAGgAAAAAAAAAAABBwDsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T04:49:11.061Z"
+              "WhenOpened": "2024-06-02T04:49:11.061Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -406,7 +416,8 @@
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Ho_so_hs.cs [Design]",
               "RelativeToolTip": "My_Application\\Ho_so_hs.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T04:49:08.482Z"
+              "WhenOpened": "2024-06-02T04:49:08.482Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -417,7 +428,8 @@
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Tra_cuu.cs [Design]",
               "RelativeToolTip": "My_Application\\Tra_cuu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T03:44:36.129Z"
+              "WhenOpened": "2024-06-02T03:44:36.129Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -428,7 +440,8 @@
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_mon_hoc.cs [Design]",
               "RelativeToolTip": "My_Application\\Them_mon_hoc.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:02:48.515Z"
+              "WhenOpened": "2024-06-01T14:02:48.515Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -439,7 +452,8 @@
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Bao_cao_Mon.cs [Design]",
               "RelativeToolTip": "My_Application\\Bao_cao_Mon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T10:25:06.437Z"
+              "WhenOpened": "2024-06-01T10:25:06.437Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -451,7 +465,8 @@
               "RelativeToolTip": "My_Application\\Them_mon_hoc.cs",
               "ViewState": "AQIAAHcAAAAAAAAAAAAAAIYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T14:02:50.766Z"
+              "WhenOpened": "2024-06-01T14:02:50.766Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -463,7 +478,8 @@
               "RelativeToolTip": "My_Application\\Them_khoi_lop.cs",
               "ViewState": "AQIAAGMAAAAAAAAAAAAmwHcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T10:16:21.696Z"
+              "WhenOpened": "2024-06-01T10:16:21.696Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -474,7 +490,8 @@
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_khoi_lop.cs [Design]",
               "RelativeToolTip": "My_Application\\Them_khoi_lop.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T10:15:35.438Z"
+              "WhenOpened": "2024-06-01T10:15:35.438Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -486,7 +503,8 @@
               "RelativeToolTip": "My_Application\\Bao_cao_Hocky.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAABBwD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T09:44:53.561Z"
+              "WhenOpened": "2024-06-01T09:44:53.561Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -498,7 +516,8 @@
               "RelativeToolTip": "My_Application\\Bao_cao_Mon.cs",
               "ViewState": "AQIAABwAAAAAAAAAAABBwEEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T09:26:31.749Z"
+              "WhenOpened": "2024-06-01T09:26:31.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -510,7 +529,8 @@
               "RelativeToolTip": "My_Application\\Danh_sach_lop.cs",
               "ViewState": "AQIAACgAAAAAAAAAAABBwCoAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T04:32:00.503Z"
+              "WhenOpened": "2024-06-01T04:32:00.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -522,7 +542,8 @@
               "RelativeToolTip": "My_Application\\Them_ho_so.cs",
               "ViewState": "AQIAAGAAAAAAAAAAAAAAAG8AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T04:31:20.382Z"
+              "WhenOpened": "2024-06-01T04:31:20.382Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -534,7 +555,8 @@
               "RelativeToolTip": "My_Application\\Tuoiqd.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAmwCoAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T14:34:52.204Z"
+              "WhenOpened": "2024-05-31T14:34:52.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -545,7 +567,8 @@
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Tuoiqd.cs [Design]",
               "RelativeToolTip": "My_Application\\Tuoiqd.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T14:32:15.485Z"
+              "WhenOpened": "2024-05-31T14:32:15.485Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -556,7 +579,8 @@
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Diem_dat.cs [Design]",
               "RelativeToolTip": "My_Application\\Diem_dat.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T14:32:09.335Z"
+              "WhenOpened": "2024-05-31T14:32:09.335Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -568,7 +592,8 @@
               "RelativeToolTip": "My_Application\\Diem_dat.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAAAE4AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T14:35:31.07Z"
+              "WhenOpened": "2024-05-31T14:35:31.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -592,7 +617,8 @@
               "RelativeToolTip": "My_Application\\Main_Form.cs",
               "ViewState": "AQIAAPEAAAAAAAAAAABBwIMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T08:20:10.28Z"
+              "WhenOpened": "2024-05-26T08:20:10.28Z",
+              "EditorCaption": ""
             }
           ]
         }
