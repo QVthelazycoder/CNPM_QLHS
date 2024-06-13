@@ -14,7 +14,9 @@ namespace My_Application
     internal class DatabaseFunc
     {
         // Tạo các đối tượng cần thiết trong Database
-        private static string con = "Data Source=LAPTOP-0L6FPOI1\\SQLEXPRESS;Initial Catalog=My_Application;Integrated Security=True;Encrypt=True;TrustServerCertificate=True";
+        private static string con = "Data Source=LAPTOP-0L6FPOI1\\SQLEXPRESS;" +
+                                    "Database=My_Application;Initial Catalog=My_Application;" +
+                                    "Integrated Security=True;Encrypt=True;TrustServerCertificate=True";
         private static SqlConnection sqlCon = new SqlConnection(con);
         private static SqlCommand sqlCmd;
         private static DataTable dt;

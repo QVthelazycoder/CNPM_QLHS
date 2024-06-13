@@ -77,15 +77,8 @@ namespace My_Application
             }
             else
             {
-                // Kiểm tra mã môn mới có bị trùng với các mã môn đã có hay không
-                int mamon_existed = (int)DatabaseFunc.Select_Value($"SELECT COUNT(*) FROM MONHOC WHERE MAMON = '{mamon}'");
                 int tenmon_existed = (int)DatabaseFunc.Select_Value($"SELECT COUNT(*) FROM MONHOC WHERE TENMON = N'{tenmon}'");
-                if (mamon_existed > 0)
-                {
-                    MessageBox.Show("Mã môn học đã tồn tại !", "Thông báo");
-                    return;
-                }
-                else if (tenmon_existed > 0)
+                if (tenmon_existed > 0)
                 {
                     MessageBox.Show("Tên môn học đã tồn tại !", "Thông báo");
                     return;
@@ -94,6 +87,13 @@ namespace My_Application
                 switch (this.Text)
                 {
                     case "Thêm Môn Học":
+                        // Kiểm tra mã môn mới có bị trùng với các mã môn đã có hay không
+                        int mamon_existed = (int)DatabaseFunc.Select_Value($"SELECT COUNT(*) FROM MONHOC WHERE MAMON = '{mamon}'");
+                        if (mamon_existed > 0)
+                        {
+                            MessageBox.Show("Mã môn học đã tồn tại !", "Thông báo");
+                            return;
+                        }
                         // Nếu mã môn chưa tồn tại, thực hiện thêm mã môn mới
                         result = DatabaseFunc.Insert("MONHOC", list);
                         if (result != 0)

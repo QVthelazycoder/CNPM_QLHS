@@ -131,7 +131,7 @@ namespace My_Application
                             }
                             else
                             {
-                                MessageBox.Show("Đã xảy ra lỗi kết nối !\nCập nhật hồ sơ thất bại");
+                                MessageBox.Show("Đã xảy ra lỗi kết nối !\nCập nhật hồ sơ thất bại", "Lỗi");
                             }
                             break;
 
@@ -150,7 +150,7 @@ namespace My_Application
                             }
                             else
                             {
-                                MessageBox.Show("Đã xảy ra lỗi kết nối !\nCập nhật hồ sơ thất bại");
+                                MessageBox.Show("Đã xảy ra lỗi kết nối !\nCập nhật hồ sơ thất bại", "Lỗi");
                                 return;
                             }
                             break;
@@ -159,7 +159,7 @@ namespace My_Application
                 }
                 else
                 {
-                    MessageBox.Show($"Tuổi không hợp lệ !\nTuổi phải từ {min_age} đến {max_age} theo quy định.");
+                    MessageBox.Show($"Tuổi không hợp lệ !\nTuổi phải từ {min_age} đến {max_age} theo quy định.", "Lỗi");
                 }
             }
         }

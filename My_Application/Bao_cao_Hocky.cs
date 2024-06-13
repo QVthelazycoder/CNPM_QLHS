@@ -148,17 +148,16 @@ namespace My_Application
                     }
 
                     string cmd = $"SELECT COUNT(*) FROM ( " +
-                                      $"SELECT STT, MAHS, AVG(DIEM_TB) DTB " +
+                                      $"SELECT TENLOP, STT, AVG(DIEM_TB) DTB " +
                                       $"FROM ( " +
                                             $"SELECT * FROM BANGDIEM_MONHOC WHERE TENLOP = '{tenlop}'  AND HOCKY = '{hocky}' " +
                                             $") BANGDIEM_LOP " +
-                                      $"GROUP BY STT, MAHS " +
+                                      $"GROUP BY TENLOP, STT" +
                                       $") TB_HK " +
                                  $"WHERE TB_HK.DTB >= 5.0";
                     int sl_dat = (int)DatabaseFunc.Select_Value(cmd);
                     if (sl_dat == -2)
                     {
-                        MessageBox.Show("Đã xảy ra lỗi kết nối !", "Lỗi");
                         return;
                     }
 

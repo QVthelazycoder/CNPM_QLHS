@@ -69,19 +69,20 @@ namespace My_Application
             // Kiểm tra thông tin được nhập có khác rỗng không.
             if (String.IsNullOrEmpty(tenlop_new))
                 MessageBox.Show("Không được để trống tên lớp !", "Lỗi");
+            
+            // Kiểm tra tên lớp mới có bị trùng với các lớp đã có hay không
+            int tenlop_existed = (int)DatabaseFunc.Select_Value($"SELECT COUNT(*) FROM LOP WHERE TENLOP = '{tenlop_new}'");
+            if (tenlop_existed > 0)
+            {
+                MessageBox.Show("Tên lớp đã tồn tại !", "Thông báo");
+                return;
+            }
             else
             {
                 int result;
                 switch (this.Text)
                 {
                     case "Thêm Lớp":
-                        // Kiểm tra tên lớp mới có bị trùng với các lớp đã có hay không
-                        int tenlop_existed = (int)DatabaseFunc.Select_Value($"SELECT COUNT(*) FROM LOP WHERE TENLOP = '{tenlop_new}'");
-                        if (tenlop_existed > 0)
-                        {
-                            MessageBox.Show("Tên lớp đã tồn tại !", "Thông báo");
-                            return;
-                        }
                         // Nếu tên lớp chưa tồn tại, thực hiện thêm lớp mới
                         result = DatabaseFunc.Insert("LOP", list);
                         if (result != 0)
@@ -89,6 +90,8 @@ namespace My_Application
                             MessageBox.Show("Thêm lớp thành công !", "Thông báo");
                             this.Close();
                         }
+                        else
+                            MessageBox.Show("Đã xảy ra lỗi kết nối !", "Lỗi");
                         break;
 
                     case "Cập Nhật Lớp":
@@ -105,7 +108,7 @@ namespace My_Application
                         }
                         else
                         {
-                            MessageBox.Show("Đã tồn tại lớp trong danh sách !", "Lỗi");
+                            MessageBox.Show("Đã xảy ra lỗi kết nối !", "Lỗi");
                             return;
                         }
                         break;

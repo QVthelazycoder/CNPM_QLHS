@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|c:\\users\\quoc vinh\\source\\repos\\my_application\\my_application\\bang_diem_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\bang_diem_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\them_khoi_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\them_khoi_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\them_mon_hoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\them_mon_hoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\danh_sach_mon_hoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\danh_sach_mon_hoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\bao_cao_hocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\bao_cao_hocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\bao_cao_hocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\bao_cao_hocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\xep_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\xep_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\xep_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\xep_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|c:\\users\\quoc vinh\\source\\repos\\my_application\\my_application\\databasefunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\databasefunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\them_ho_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\them_ho_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\them_ho_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\them_ho_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\dang_nhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\dang_nhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\bang_diem_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\bang_diem_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\bang_diem_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\bang_diem_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\dang_nhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -27,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\doi_mat_khau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\databasefunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\databasefunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\tra_cuu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\tra_cuu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,32 +79,12 @@
       "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\bao_cao_hocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\bao_cao_hocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\bang_diem_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\bang_diem_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\bao_cao_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\bao_cao_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\bao_cao_hocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\bao_cao_hocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\bao_cao_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\bao_cao_mon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\xep_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\xep_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\them_ho_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\them_ho_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\ho_so_hs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\danh_sach_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\danh_sach_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\them_ho_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\them_ho_so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\danh_sach_mon_hoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,24 +123,12 @@
       "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\them_khoi_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\them_khoi_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\them_khoi_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\them_ds_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\them_ds_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\ho_so_hs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\ho_so_hs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\them_mon_hoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\them_mon_hoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\danh_sach_mon_hoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|solutionrelative:my_application\\danh_sach_mon_hoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD1FC458-1464-4146-9BF0-C692CF035D3C}|My_Application\\My_Application.csproj|C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\my_application\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -154,7 +154,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 27,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,20 +170,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "Xep_lop.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Xep_lop.cs",
               "RelativeDocumentMoniker": "My_Application\\Xep_lop.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Xep_lop.cs",
               "RelativeToolTip": "My_Application\\Xep_lop.cs",
-              "ViewState": "AQIAAG8AAAAAAAAAAABBwDYAAAAjAAAA",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAFMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T10:42:38.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Danh_sach_mon_hoc.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Danh_sach_mon_hoc.cs",
               "RelativeDocumentMoniker": "My_Application\\Danh_sach_mon_hoc.cs",
@@ -196,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 9,
               "Title": "Them_ho_so.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_ho_so.cs",
               "RelativeDocumentMoniker": "My_Application\\Them_ho_so.cs",
@@ -215,12 +215,11 @@
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Bang_diem_mon.cs [Design]",
               "RelativeToolTip": "My_Application\\Bang_diem_mon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:16:05.019Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-04T13:16:05.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Doi_mat_khau.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Doi_mat_khau.cs",
               "RelativeDocumentMoniker": "My_Application\\Doi_mat_khau.cs",
@@ -228,8 +227,7 @@
               "RelativeToolTip": "My_Application\\Doi_mat_khau.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAmwBoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T02:11:04.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T02:11:04.106Z"
             },
             {
               "$type": "Document",
@@ -240,12 +238,11 @@
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Main_Form.cs [Design]",
               "RelativeToolTip": "My_Application\\Main_Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T04:06:04.728Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-27T04:06:04.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "Tra_cuu.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Tra_cuu.cs",
               "RelativeDocumentMoniker": "My_Application\\Tra_cuu.cs",
@@ -253,37 +250,35 @@
               "RelativeToolTip": "My_Application\\Tra_cuu.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAUwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T03:44:39.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T03:44:39.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DatabaseFunc.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\DatabaseFunc.cs",
               "RelativeDocumentMoniker": "My_Application\\DatabaseFunc.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\DatabaseFunc.cs",
               "RelativeToolTip": "My_Application\\DatabaseFunc.cs",
-              "ViewState": "AQIAAL0AAAAAAAAAAAAmwMYAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T13:32:23.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Them_ds_lop.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_ds_lop.cs",
               "RelativeDocumentMoniker": "My_Application\\Them_ds_lop.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_ds_lop.cs [Design]",
               "RelativeToolTip": "My_Application\\Them_ds_lop.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:33:14.153Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-03T14:33:14.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Them_ds_lop.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_ds_lop.cs",
               "RelativeDocumentMoniker": "My_Application\\Them_ds_lop.cs",
@@ -291,12 +286,11 @@
               "RelativeToolTip": "My_Application\\Them_ds_lop.cs",
               "ViewState": "AQIAAIIAAAAAAAAAAAAmwJYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T14:33:28.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T14:33:28.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 2,
               "Title": "Danh_sach_mon_hoc.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Danh_sach_mon_hoc.cs",
               "RelativeDocumentMoniker": "My_Application\\Danh_sach_mon_hoc.cs",
@@ -316,8 +310,7 @@
               "RelativeToolTip": "My_Application\\Main_Form.Designer.cs",
               "ViewState": "AQIAABQAAAAAAAAAAIBJwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T10:56:29.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T10:56:29.105Z"
             },
             {
               "$type": "Document",
@@ -329,24 +322,22 @@
               "RelativeToolTip": "My_Application\\Doi_mat_khau.Designer.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAiwBwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T03:15:43.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T03:15:43.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Doi_mat_khau.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Doi_mat_khau.cs",
               "RelativeDocumentMoniker": "My_Application\\Doi_mat_khau.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Doi_mat_khau.cs [Design]",
               "RelativeToolTip": "My_Application\\Doi_mat_khau.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T02:09:02.624Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-04T02:09:02.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "Bao_cao_Hocky.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Bao_cao_Hocky.cs",
               "RelativeDocumentMoniker": "My_Application\\Bao_cao_Hocky.cs",
@@ -358,20 +349,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "Bang_diem_mon.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Bang_diem_mon.cs",
               "RelativeDocumentMoniker": "My_Application\\Bang_diem_mon.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Bang_diem_mon.cs",
               "RelativeToolTip": "My_Application\\Bang_diem_mon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:16:20.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T13:16:20.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Xep_lop.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Xep_lop.cs",
               "RelativeDocumentMoniker": "My_Application\\Xep_lop.cs",
@@ -383,20 +373,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Dang_nhap.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Dang_nhap.cs",
               "RelativeDocumentMoniker": "My_Application\\Dang_nhap.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Dang_nhap.cs",
               "RelativeToolTip": "My_Application\\Dang_nhap.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwEwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T15:01:57.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T15:01:57.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Ho_so_hs.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Ho_so_hs.cs",
               "RelativeDocumentMoniker": "My_Application\\Ho_so_hs.cs",
@@ -404,36 +393,33 @@
               "RelativeToolTip": "My_Application\\Ho_so_hs.cs",
               "ViewState": "AQIAAGgAAAAAAAAAAABBwDsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T04:49:11.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T04:49:11.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Ho_so_hs.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Ho_so_hs.cs",
               "RelativeDocumentMoniker": "My_Application\\Ho_so_hs.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Ho_so_hs.cs [Design]",
               "RelativeToolTip": "My_Application\\Ho_so_hs.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T04:49:08.482Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-02T04:49:08.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "Tra_cuu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Tra_cuu.cs",
               "RelativeDocumentMoniker": "My_Application\\Tra_cuu.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Tra_cuu.cs [Design]",
               "RelativeToolTip": "My_Application\\Tra_cuu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T03:44:36.129Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-02T03:44:36.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Them_mon_hoc.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_mon_hoc.cs",
               "RelativeDocumentMoniker": "My_Application\\Them_mon_hoc.cs",
@@ -445,45 +431,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Bao_cao_Mon.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Bao_cao_Mon.cs",
               "RelativeDocumentMoniker": "My_Application\\Bao_cao_Mon.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Bao_cao_Mon.cs [Design]",
               "RelativeToolTip": "My_Application\\Bao_cao_Mon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T10:25:06.437Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-01T10:25:06.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 1,
               "Title": "Them_mon_hoc.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_mon_hoc.cs",
               "RelativeDocumentMoniker": "My_Application\\Them_mon_hoc.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_mon_hoc.cs",
               "RelativeToolTip": "My_Application\\Them_mon_hoc.cs",
-              "ViewState": "AQIAAHcAAAAAAAAAAAAAAIYAAAAJAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAUwFMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T14:02:50.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 0,
               "Title": "Them_khoi_lop.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_khoi_lop.cs",
               "RelativeDocumentMoniker": "My_Application\\Them_khoi_lop.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_khoi_lop.cs",
               "RelativeToolTip": "My_Application\\Them_khoi_lop.cs",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAmwHcAAAAAAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAmwG4AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T10:16:21.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "Them_khoi_lop.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_khoi_lop.cs",
               "RelativeDocumentMoniker": "My_Application\\Them_khoi_lop.cs",
@@ -495,20 +480,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Bao_cao_Hocky.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Bao_cao_Hocky.cs",
               "RelativeDocumentMoniker": "My_Application\\Bao_cao_Hocky.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Bao_cao_Hocky.cs",
               "RelativeToolTip": "My_Application\\Bao_cao_Hocky.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAABBwD8AAAAAAAAA",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAUwJoAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T09:44:53.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Bao_cao_Mon.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Bao_cao_Mon.cs",
               "RelativeDocumentMoniker": "My_Application\\Bao_cao_Mon.cs",
@@ -516,12 +501,11 @@
               "RelativeToolTip": "My_Application\\Bao_cao_Mon.cs",
               "ViewState": "AQIAABwAAAAAAAAAAABBwEEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T09:26:31.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T09:26:31.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Danh_sach_lop.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Danh_sach_lop.cs",
               "RelativeDocumentMoniker": "My_Application\\Danh_sach_lop.cs",
@@ -529,25 +513,24 @@
               "RelativeToolTip": "My_Application\\Danh_sach_lop.cs",
               "ViewState": "AQIAACgAAAAAAAAAAABBwCoAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T04:32:00.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T04:32:00.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 8,
               "Title": "Them_ho_so.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_ho_so.cs",
               "RelativeDocumentMoniker": "My_Application\\Them_ho_so.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Them_ho_so.cs",
               "RelativeToolTip": "My_Application\\Them_ho_so.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAAAG8AAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T04:31:20.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Tuoiqd.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Tuoiqd.cs",
               "RelativeDocumentMoniker": "My_Application\\Tuoiqd.cs",
@@ -555,8 +538,7 @@
               "RelativeToolTip": "My_Application\\Tuoiqd.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAmwCoAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T14:34:52.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T14:34:52.204Z"
             },
             {
               "$type": "Document",
@@ -567,24 +549,22 @@
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Tuoiqd.cs [Design]",
               "RelativeToolTip": "My_Application\\Tuoiqd.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T14:32:15.485Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-31T14:32:15.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Diem_dat.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Diem_dat.cs",
               "RelativeDocumentMoniker": "My_Application\\Diem_dat.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Diem_dat.cs [Design]",
               "RelativeToolTip": "My_Application\\Diem_dat.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T14:32:09.335Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-31T14:32:09.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Diem_dat.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Diem_dat.cs",
               "RelativeDocumentMoniker": "My_Application\\Diem_dat.cs",
@@ -592,24 +572,22 @@
               "RelativeToolTip": "My_Application\\Diem_dat.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAAAE4AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T14:35:31.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T14:35:31.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Dang_nhap.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Dang_nhap.cs",
               "RelativeDocumentMoniker": "My_Application\\Dang_nhap.cs",
               "ToolTip": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Dang_nhap.cs [Design]",
               "RelativeToolTip": "My_Application\\Dang_nhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T11:07:18.219Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-30T11:07:18.219Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Main_Form.cs",
               "DocumentMoniker": "C:\\Users\\QUOC VINH\\source\\repos\\My_Application\\My_Application\\Main_Form.cs",
               "RelativeDocumentMoniker": "My_Application\\Main_Form.cs",
@@ -617,8 +595,7 @@
               "RelativeToolTip": "My_Application\\Main_Form.cs",
               "ViewState": "AQIAAPEAAAAAAAAAAABBwIMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T08:20:10.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T08:20:10.28Z"
             }
           ]
         }
